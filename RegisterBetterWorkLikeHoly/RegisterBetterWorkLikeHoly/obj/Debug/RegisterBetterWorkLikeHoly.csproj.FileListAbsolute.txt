@@ -1,0 +1,11 @@
+C:\Users\Xerox\source\repos\RegisterBetterWorkLikeHoly\RegisterBetterWorkLikeHoly\obj\Debug\RegisterBetterWorkLikeHoly.csproj.AssemblyReference.cache
+C:\Users\Xerox\source\repos\RegisterBetterWorkLikeHoly\RegisterBetterWorkLikeHoly\obj\Debug\RegisterBetterWorkLikeHoly.csproj.SuggestedBindingRedirects.cache
+C:\Users\Xerox\source\repos\RegisterBetterWorkLikeHoly\RegisterBetterWorkLikeHoly\obj\Debug\RegisterBetterWorkLikeHoly.Properties.Resources.resources
+C:\Users\Xerox\source\repos\RegisterBetterWorkLikeHoly\RegisterBetterWorkLikeHoly\obj\Debug\RegisterBetterWorkLikeHoly.csproj.GenerateResource.cache
+C:\Users\Xerox\source\repos\RegisterBetterWorkLikeHoly\RegisterBetterWorkLikeHoly\obj\Debug\RegisterBetterWorkLikeHoly.csproj.CoreCompileInputs.cache
+C:\Users\Xerox\source\repos\RegisterBetterWorkLikeHoly\RegisterBetterWorkLikeHoly\bin\Debug\RegisterBetterWorkLikeHoly.exe.config
+C:\Users\Xerox\source\repos\RegisterBetterWorkLikeHoly\RegisterBetterWorkLikeHoly\bin\Debug\RegisterBetterWorkLikeHoly.exe
+C:\Users\Xerox\source\repos\RegisterBetterWorkLikeHoly\RegisterBetterWorkLikeHoly\bin\Debug\RegisterBetterWorkLikeHoly.pdb
+C:\Users\Xerox\source\repos\RegisterBetterWorkLikeHoly\RegisterBetterWorkLikeHoly\obj\Debug\RegisterBetterWorkLikeHoly.exe
+C:\Users\Xerox\source\repos\RegisterBetterWorkLikeHoly\RegisterBetterWorkLikeHoly\obj\Debug\RegisterBetterWorkLikeHoly.pdb
+C:\Users\Xerox\source\repos\RegisterBetterWorkLikeHoly\RegisterBetterWorkLikeHoly\obj\Debug\RegisterBetterWorkLikeHoly.Log.resources
